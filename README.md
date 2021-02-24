@@ -1,5 +1,8 @@
-# Word-Cloud 🔠☁ 
+# Word-Cloud 🔠☁
 ## About
+
+[![CodeFactor](https://www.codefactor.io/repository/github/stathis-kal/word-cloud/badge)](https://www.codefactor.io/repository/github/stathis-kal/word-cloud)
+
 In this repository I used a Python library to generate Word Clouds.
 See full documentation [here](https://amueller.github.io/word_cloud/index.html).
 

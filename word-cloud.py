@@ -67,7 +67,7 @@ wc.to_file("masked_with_default_colors.png")
 wcd.generate(text)
 wcd.to_file("default_word_cloud.png")
 
-# create customs colors for our word clouds
+# create custom colors for our word clouds
 image_colors = ImageColorGenerator(image_color)
 wc.recolor(color_func=image_colors)
 wc.to_file("masked_with_image_colors.png")
